@@ -16,21 +16,20 @@
 > Intégration de SHAP pour l’interprétabilité, courbes ROC, matrices de confusion, traitement des variables catégorielles, encodage, validation temporelle et robustesse.  
 > Ce projet met en œuvre l’ensemble des contraintes de la norme **IFRS 9** dans un contexte bancaire.
 
-### 📊 [Plateforme de recommandation d’investissement](https://github.com/ton_utilisateur/ton_projet)
+### 📊 [Plateforme de recommandation d’investissement]([https://github.com/ton_utilisateur/ton_projet](https://github.com/ArnaudCrd/Investment_Pipeline_Clustering_NLP_Prediction))
+> Scraping de données économiques, analyse de sentiment via LLM (GPT/Mistral), génération de synthèses automatiques multi-entreprises.
 > Intégration de clustering, régression, classification, analyse de sentiment NLP (LLM), visualisation technique (RSI, MACD) et génération automatique de rapports PDF multi-entreprises.  
 > Pipelines robustes, automatisés, et orientés décision pour des cas d’usage réels en finance.
 
-### 🧠 [Simulation Monte Carlo d'encours bancaires]
+### 🧠 [Projet interne - Simulation Monte Carlo d'encours bancaires]
 > Modélisation locale des encours bancaires à partir de données BCE. Simulation stochastique multi-scénarios pour l'analyse de stabilité bancaire sous chocs économiques.
 
 ### 🧬 [Reconnaissance inversée d'images (MNIST)](https://github.com/ton_utilisateur/ton_projet)
 > Génération d’images à partir de classes cibles avec CNN inversés. Étude sur la robustesse des représentations latentes et la visualisation des features activés.
 
-### 📈 [Simulation de courbes de taux interbancaires]-
+### 📈 [Projet interne - Simulation de courbes de taux interbancaires]
 > Génération de courbes EONIA ou EURIBOR via des modèles CIR/Vasicek calibrés sur séries temporelles macroéconomiques simulées. Visualisation des incertitudes.
-
-### 📰 [Analyse automatique de documents et actualités économiques (LLM)](https://github.com/ton_utilisateur/ton_projet)
-> Scraping de données économiques, analyse de sentiment via LLM (GPT/Mistral), génération de synthèses automatiques multi-entreprises.
+> Extrapolation des prévisions économique afin d'étendre les modèles de taux court à un horizon plus long. 
 
 ---
 
