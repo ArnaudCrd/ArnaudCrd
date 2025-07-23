@@ -56,9 +56,9 @@
 
 ## 📫 Me contacter
 
-- 📧 [arnaud@example.com](mailto:arnaud@icloud.com)  
+- 📧 [arnaud@icoud.com](mailto:arnaud@icloud.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arnaud-cheridi/)
-- 🧾 [CV / Résumé](https://github.com/ton_utilisateur/cv) *(optionnel)*
+- 🧾 [CV / Résumé](https://github.com/ArnaudCrd/ArnaudCrd/blob/main/CV_DS.pdf) *(optionnel)*
 
 ---
 
