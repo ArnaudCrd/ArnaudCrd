@@ -31,6 +31,13 @@
 > Génération de courbes EONIA ou EURIBOR via des modèles CIR/Vasicek calibrés sur séries temporelles macroéconomiques simulées. Visualisation des incertitudes.
 > Extrapolation des prévisions économique afin d'étendre les modèles de taux court à un horizon plus long. 
 
+### 🤖 [Projets Kaggle – Machine Learning](https://www.kaggle.com/arnaudcrd)  
+> Participation à plusieurs compétitions Kaggle avec pipelines complets : preprocessing, modélisation, tuning, validation croisée, soumission automatisée.  
+> Modèles explorés : Random Forest, LightGBM, XGBoost, SVM, Logistic Regression, CNN (vision), etc.
+
+📂 **Projets Kaggle disponibles** :
+- 🧪 [Prédiction de fertilisants – Classification multiclasses](https://github.com/ArnaudCrd/Kaggle_Fertilizer_Classification)  
+  *EDA + sélection de features + entraînement multi-modèles + soumission top-4*
 ---
 
 ## 🧰 Compétences techniques
