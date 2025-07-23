@@ -17,7 +17,7 @@
 > Ce projet met en œuvre l’ensemble des contraintes de la norme **IFRS 9** dans un contexte bancaire.
 
 ### 📊 [Plateforme de recommandation d’investissement](https://github.com/ArnaudCrd/Investment_Pipeline_Clustering_NLP_Prediction)
-> Scraping de données économiques, analyse de sentiment via LLM (GPT/Mistral), génération de synthèses automatiques multi-entreprises.
+> Scraping de données économiques, analyse de sentiment via LLM, génération de synthèses automatiques multi-entreprises.
 > Intégration de clustering, régression, classification, analyse de sentiment NLP (LLM), visualisation technique (RSI, MACD) et génération automatique de rapports PDF multi-entreprises.  
 > Pipelines robustes, automatisés, et orientés décision pour des cas d’usage réels en finance.
 
