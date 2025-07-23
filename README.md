@@ -24,7 +24,7 @@
 ### 🧠 Projet interne - Simulation Monte Carlo d'encours bancaires
 > Modélisation locale des encours bancaires à partir de données BCE. Simulation stochastique multi-scénarios pour l'analyse de stabilité bancaire sous chocs économiques.
 
-### 🧬 [Reconnaissance inversée d'images (MNIST)](https://github.com/ton_utilisateur/ton_projet)
+### 🧬 [Reconnaissance inversée d'images (MNIST)](https://github.com/ArnaudCrd/Classifier-as-generator)
 > Génération d’images à partir de classes cibles avec CNN inversés. Étude sur la robustesse des représentations latentes et la visualisation des features activés.
 
 ### 📈 Projet interne - Simulation de courbes de taux interbancaires
@@ -56,8 +56,8 @@
 
 ## 📫 Me contacter
 
-- 📧 [arnaud@example.com](mailto:arnaud@example.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tonprofil)  
+- 📧 [arnaud@example.com](mailto:arnaud@icloud.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arnaud-cheridi/)
 - 🧾 [CV / Résumé](https://github.com/ton_utilisateur/cv) *(optionnel)*
 
 ---
