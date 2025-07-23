@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Projets récents
-### 🧮 [Modélisation du risque de crédit – IFRS 9](https://github.com/ton_utilisateur/ton_projet)
+### 🧮 [Modélisation du risque de crédit – IFRS 9](https://github.com/ArnaudCrd/Modelisation-du-Risque-de-Credit)
 > Construction d’un pipeline complet de modélisation du risque de crédit :  
 > - **PD** (Probabilité de Défaut) par classification (LightGBM, Random Forest, etc.)  
 > - **LGD** (Loss Given Default) par régression  
