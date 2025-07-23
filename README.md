@@ -33,7 +33,7 @@
 
 ### 🤖 [Projets Kaggle – Machine Learning](https://www.kaggle.com/arnaudcrd)  
 > Participation à plusieurs compétitions Kaggle avec pipelines complets : preprocessing, modélisation, tuning, validation croisée, soumission automatisée.  
-> Modèles explorés : Random Forest, LightGBM, XGBoost, SVM, Logistic Regression, CNN (vision), etc.
+> Modèles explorés : Random Forest, LightGBM, XGBoost, SVM, Logistic Regression, etc.
 
 📂 **Projets Kaggle disponibles** :
 - 🧪 [Prédiction de fertilisants – Classification multiclasses](https://github.com/ArnaudCrd/Kaggle_Fertilizer_Classification)  
