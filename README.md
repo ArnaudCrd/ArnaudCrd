@@ -45,8 +45,8 @@
 - **Langages** : Python, Bash, Markdown  
 - **Analyse de données** : NumPy, Pandas, Matplotlib, Seaborn  
 - **Modélisation** : Scikit-learn, XGBoost, LightGBM, TensorFlow / Keras  
-- **NLP** : Transformers, spaCy, APIs LLM (OpenAI, HuggingFace)  
-- **Simulation & Stats** : processus stochastiques (CIR, Bessel, copules), Monte Carlo  
+- **NLP** : Transformers, APIs LLM (OpenAI, HuggingFace)  
+- **Simulation & Stats** : processus stochastiques (CIR, Bessel, copules, HJM, etc), Monte Carlo  
 - **Dev** : Git, pipelines modulaires, visualisation de résultats, automatisation (PDF, script)
 
 ---
