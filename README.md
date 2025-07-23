@@ -1,33 +1,66 @@
 # 👋 Salut, moi c’est Arnaud
 
 🎓 Étudiant en Master 2 de Mathématiques Appliquées à l’Université Paris Dauphine–PSL  
-🧠 Passionné par la data science, le machine learning et les modèles de décision  
-📈 Intéressé par les applications en finance, en économie, mais aussi par des problématiques plus générales d’apprentissage automatique et de traitement de données complexes
+🧠 Passionné par la **data science**, le **machine learning** et la **modélisation stochastique**  
+📈 Intéressé par les applications en **finance**, **économie**, **traitement du langage naturel** et **automatisation intelligente**
 
-## 🚀 Ce que je fais actuellement
+---
 
-- Conception de **modèles stochastiques** appliqués aux encours des dépôts bancaires (données BCE), avec **modélisation locale** via des méthodes de Machine Learning  
-- Développement de **systèmes de décision automatique** combinant clustering, régression, classification et NLP, pour des contextes variés (analyse financière, compréhension de texte, etc.)  
-- Utilisation d'**API NLP** (LLM de type GPT, Mistral…) pour l’analyse de sentiment, l’extraction d’informations, la génération automatique, ou l’automatisation de traitements  
-- Construction de **pipelines complets** : scraping, nettoyage, modélisation, visualisation et génération de rapports PDF — applicables à des cas réels en finance, éducation, ou image
+## 🚀 Projets récents
+### 🧮 [Modélisation du risque de crédit – IFRS 9](https://github.com/ton_utilisateur/ton_projet)
+> Construction d’un pipeline complet de modélisation du risque de crédit :  
+> - **PD** (Probabilité de Défaut) par classification (LightGBM, Random Forest, etc.)  
+> - **LGD** (Loss Given Default) par régression  
+> - **EAD** (Exposure at Default) via simulation Monte Carlo  
+> - **ECL** (Expected Credit Loss) agrégé  
+> Intégration de SHAP pour l’interprétabilité, courbes ROC, matrices de confusion, traitement des variables catégorielles, encodage, validation temporelle et robustesse.  
+> Ce projet met en œuvre l’ensemble des contraintes de la norme **IFRS 9** dans un contexte bancaire.
+
+### 📊 [Plateforme de recommandation d’investissement](https://github.com/ton_utilisateur/ton_projet)
+> Intégration de clustering, régression, classification, analyse de sentiment NLP (LLM), visualisation technique (RSI, MACD) et génération automatique de rapports PDF multi-entreprises.  
+> Pipelines robustes, automatisés, et orientés décision pour des cas d’usage réels en finance.
+
+### 🧠 [Simulation Monte Carlo d'encours bancaires]
+> Modélisation locale des encours bancaires à partir de données BCE. Simulation stochastique multi-scénarios pour l'analyse de stabilité bancaire sous chocs économiques.
+
+### 🧬 [Reconnaissance inversée d'images (MNIST)](https://github.com/ton_utilisateur/ton_projet)
+> Génération d’images à partir de classes cibles avec CNN inversés. Étude sur la robustesse des représentations latentes et la visualisation des features activés.
+
+### 📈 [Simulation de courbes de taux interbancaires]-
+> Génération de courbes EONIA ou EURIBOR via des modèles CIR/Vasicek calibrés sur séries temporelles macroéconomiques simulées. Visualisation des incertitudes.
+
+### 📰 [Analyse automatique de documents et actualités économiques (LLM)](https://github.com/ton_utilisateur/ton_projet)
+> Scraping de données économiques, analyse de sentiment via LLM (GPT/Mistral), génération de synthèses automatiques multi-entreprises.
+
+---
 
 ## 🧰 Compétences techniques
 
-- Python, NumPy, Pandas, Scikit-learn, Matplotlib  
-- TensorFlow / Keras, XGBoost, LightGBM  
-- Modélisation statistique, stochastique et déterministe  
-- Traitement du langage naturel (Transformers, embeddings, APIs LLM)
+- **Langages** : Python, Bash, Markdown  
+- **Analyse de données** : NumPy, Pandas, Matplotlib, Seaborn  
+- **Modélisation** : Scikit-learn, XGBoost, LightGBM, TensorFlow / Keras  
+- **NLP** : Transformers, spaCy, APIs LLM (OpenAI, HuggingFace)  
+- **Simulation & Stats** : processus stochastiques (CIR, Bessel, copules), Monte Carlo  
+- **Dev** : Git, pipelines modulaires, visualisation de résultats, automatisation (PDF, script)
 
-## 📚 Projets récents
+---
 
-- Génération inversée d’images à partir de classes cibles (CNN sur MNIST)  
-- Plateforme de recommandation d’investissement intégrant clustering, prédiction, NLP et visualisation  
-- Simulation Monte Carlo d’encours bancaires via fonctions locales apprises par ML  
-- Simulation de courbes de taux interbancaires à partir de prévisions macroéconomiques  
-- Analyse automatique de documents et actualités économiques à l’aide de LLM
+## 💼 Objectifs
 
-## 🌍 Objectif
+> **Utiliser la puissance des modèles mathématiques et du machine learning** pour résoudre des problèmes concrets, dans une démarche rigoureuse, automatisée et explicable.
 
-Mettre les mathématiques appliquées, les modèles stochastiques et l’intelligence artificielle au service de projets concrets, robustes et interprétables — dans des domaines aussi bien techniques qu’humains : finance, éducation, NLP, visualisation ou prise de décision.
+- Renforcer la **prise de décision** par la modélisation prédictive et l’analyse quantitative  
+- Appliquer des techniques avancées à des enjeux métier : finance, éducation, NLP, etc.  
+- Travailler sur des projets **transversaux**, **responsables** et **compréhensibles** par les utilisateurs finaux
 
-📬 N’hésite pas à me contacter pour échanger ou collaborer sur un projet stimulant !
+---
+
+## 📫 Me contacter
+
+- 📧 [arnaud@example.com](mailto:arnaud@example.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tonprofil)  
+- 🧾 [CV / Résumé](https://github.com/ton_utilisateur/cv) *(optionnel)*
+
+---
+
+> *“Les mathématiques sont l'alphabet avec lequel Dieu a écrit l’univers.” – Galilée*
