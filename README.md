@@ -21,13 +21,13 @@
 > Intégration de clustering, régression, classification, analyse de sentiment NLP (LLM), visualisation technique (RSI, MACD) et génération automatique de rapports PDF multi-entreprises.  
 > Pipelines robustes, automatisés, et orientés décision pour des cas d’usage réels en finance.
 
-### 🧠 [Projet interne - Simulation Monte Carlo d'encours bancaires]
+### 🧠 Projet interne - Simulation Monte Carlo d'encours bancaires
 > Modélisation locale des encours bancaires à partir de données BCE. Simulation stochastique multi-scénarios pour l'analyse de stabilité bancaire sous chocs économiques.
 
 ### 🧬 [Reconnaissance inversée d'images (MNIST)](https://github.com/ton_utilisateur/ton_projet)
 > Génération d’images à partir de classes cibles avec CNN inversés. Étude sur la robustesse des représentations latentes et la visualisation des features activés.
 
-### 📈 [Projet interne - Simulation de courbes de taux interbancaires]
+### 📈 Projet interne - Simulation de courbes de taux interbancaires
 > Génération de courbes EONIA ou EURIBOR via des modèles CIR/Vasicek calibrés sur séries temporelles macroéconomiques simulées. Visualisation des incertitudes.
 > Extrapolation des prévisions économique afin d'étendre les modèles de taux court à un horizon plus long. 
 
