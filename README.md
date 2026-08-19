@@ -43,17 +43,6 @@
 - **NLP** : Transformers, APIs LLM (OpenAI, HuggingFace)  
 - **Simulation & Stats** : processus stochastiques (CIR, Bessel, copules, HJM, etc), Monte Carlo  
 - **Dev** : Git, pipelines modulaires, visualisation de résultats, automatisation (PDF, script)
-
----
-
-## 💼 Objectifs
-
-> **Utiliser la puissance des modèles mathématiques et du machine learning** pour résoudre des problèmes concrets, dans une démarche rigoureuse, automatisée et explicable.
-
-- Renforcer la **prise de décision** par la modélisation prédictive et l’analyse quantitative  
-- Appliquer des techniques avancées à des enjeux métier : finance, éducation, NLP, etc.  
-- Travailler sur des projets **transversaux**, **responsables** et **compréhensibles** par les utilisateurs finaux
-
 ---
 
 > *“Les mathématiques sont l'alphabet avec lequel Dieu a écrit l’univers.” – Galilée*
