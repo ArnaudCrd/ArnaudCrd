@@ -56,12 +56,4 @@
 
 ---
 
-## 📫 Me contacter
-
-- 📧 [arnaud@icoud.com](mailto:arnaud@icloud.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arnaud-cheridi/)
-- 🧾 [CV](https://github.com/ArnaudCrd/ArnaudCrd/blob/main/CV_DS.pdf)
-
----
-
 > *“Les mathématiques sont l'alphabet avec lequel Dieu a écrit l’univers.” – Galilée*
