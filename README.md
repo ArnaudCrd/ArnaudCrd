@@ -1,9 +1,4 @@
 # 👋 Salut, moi c’est Arnaud
-
-🎓 Étudiant en Master 2 de Mathématiques Appliquées à l’Université Paris Dauphine–PSL  
-🧠 Passionné par la **data science**, le **machine learning** et la **modélisation stochastique**  
-📈 Intéressé par les applications en **finance**, **économie**, **traitement du langage naturel** et **automatisation intelligente**
-
 ---
 
 ## 🚀 Projets récents
